@@ -6,6 +6,7 @@ Daily leetcode  submission track record
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
