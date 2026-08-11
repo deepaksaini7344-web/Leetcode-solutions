@@ -7,6 +7,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -35,5 +36,10 @@ Daily leetcode  submission track record
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0917-reverse-only-letters](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
