@@ -17,6 +17,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
+| [1929-concatenation-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
+| [1929-concatenation-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
