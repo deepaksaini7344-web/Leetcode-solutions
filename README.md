@@ -43,10 +43,12 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0917-reverse-only-letters](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
