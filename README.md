@@ -48,6 +48,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0917-reverse-only-letters](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -59,6 +60,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Greedy
@@ -75,6 +77,7 @@ Daily leetcode  submission track record
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Stack
@@ -85,5 +88,14 @@ Daily leetcode  submission track record
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
