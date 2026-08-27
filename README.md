@@ -22,6 +22,7 @@ Daily leetcode  submission track record
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1929-concatenation-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Binary Search
@@ -34,6 +35,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1929-concatenation-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0917-reverse-only-letters](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +55,7 @@ Daily leetcode  submission track record
 | [0917-reverse-only-letters](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
