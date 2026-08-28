@@ -10,6 +10,7 @@ Daily leetcode  submission track record
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0670-maximum-swap](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0670-maximum-swap/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Enumeration
@@ -26,6 +27,7 @@ Daily leetcode  submission track record
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1929-concatenation-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
@@ -70,6 +72,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3941-password-strength](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3941-password-strength/) | Medium |
@@ -99,6 +102,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
