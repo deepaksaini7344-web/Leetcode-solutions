@@ -13,6 +13,7 @@ Daily leetcode  submission track record
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ Daily leetcode  submission track record
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
