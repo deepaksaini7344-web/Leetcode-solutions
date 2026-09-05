@@ -43,6 +43,7 @@ Daily leetcode  submission track record
 | [3876-construct-uniform-parity-array-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ Daily leetcode  submission track record
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
