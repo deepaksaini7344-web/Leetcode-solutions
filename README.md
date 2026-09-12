@@ -77,6 +77,7 @@ Daily leetcode  submission track record
 | [2000-reverse-prefix-of-word](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3884-first-matching-character-from-both-ends](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Daily leetcode  submission track record
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3884-first-matching-character-from-both-ends](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3941-password-strength](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3941-password-strength/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
