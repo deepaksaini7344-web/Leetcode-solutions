@@ -74,6 +74,7 @@ Daily leetcode  submission track record
 | [0917-reverse-only-letters](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String
@@ -85,6 +86,7 @@ Daily leetcode  submission track record
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -126,6 +128,7 @@ Daily leetcode  submission track record
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting
