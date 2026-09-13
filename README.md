@@ -13,6 +13,7 @@ Daily leetcode  submission track record
 | [1551-minimum-operations-to-make-array-equal](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+| [2119-a-number-after-a-double-reversal](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
