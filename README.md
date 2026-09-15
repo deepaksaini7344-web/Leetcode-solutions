@@ -42,6 +42,7 @@ Daily leetcode  submission track record
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -107,6 +108,7 @@ Daily leetcode  submission track record
 | [0409-longest-palindrome](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -163,6 +165,7 @@ Daily leetcode  submission track record
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
