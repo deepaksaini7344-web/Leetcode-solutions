@@ -32,6 +32,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0877-stone-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -108,6 +109,7 @@ Daily leetcode  submission track record
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0409-longest-palindrome](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -120,6 +122,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0670-maximum-swap](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0670-maximum-swap/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
