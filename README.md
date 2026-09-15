@@ -32,6 +32,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0877-stone-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
@@ -54,6 +55,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0917-reverse-only-letters](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -103,6 +106,7 @@ Daily leetcode  submission track record
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0409-longest-palindrome](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -126,6 +130,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
