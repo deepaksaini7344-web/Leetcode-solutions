@@ -23,6 +23,7 @@ Daily leetcode  submission track record
 | [3875-construct-uniform-parity-array-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,4 +218,5 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 <!---LeetCode Topics End-->
