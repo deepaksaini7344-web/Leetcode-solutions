@@ -14,6 +14,7 @@ Daily leetcode  submission track record
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -44,6 +45,7 @@ Daily leetcode  submission track record
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -66,6 +68,7 @@ Daily leetcode  submission track record
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1929-concatenation-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -204,4 +207,12 @@ Daily leetcode  submission track record
 | [0190-reverse-bits](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
