@@ -40,6 +40,7 @@ Daily leetcode  submission track record
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1929-concatenation-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -135,6 +136,7 @@ Daily leetcode  submission track record
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
@@ -150,6 +152,7 @@ Daily leetcode  submission track record
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -226,4 +229,8 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
