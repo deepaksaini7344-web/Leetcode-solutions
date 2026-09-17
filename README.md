@@ -53,6 +53,7 @@ Daily leetcode  submission track record
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -136,6 +137,7 @@ Daily leetcode  submission track record
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ Daily leetcode  submission track record
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
