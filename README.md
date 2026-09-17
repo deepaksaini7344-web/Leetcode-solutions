@@ -14,6 +14,7 @@ Daily leetcode  submission track record
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -45,6 +46,7 @@ Daily leetcode  submission track record
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2293-min-max-game/) | Easy |
@@ -103,6 +105,7 @@ Daily leetcode  submission track record
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
@@ -176,6 +179,7 @@ Daily leetcode  submission track record
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Game Theory
