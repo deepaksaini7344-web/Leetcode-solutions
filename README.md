@@ -33,6 +33,7 @@ Daily leetcode  submission track record
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0162-find-peak-element](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0877-stone-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -120,6 +121,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0409-longest-palindrome](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
