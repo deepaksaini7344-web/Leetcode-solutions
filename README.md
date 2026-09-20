@@ -79,6 +79,7 @@ Daily leetcode  submission track record
 | [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2293-min-max-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ Daily leetcode  submission track record
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
