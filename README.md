@@ -10,6 +10,7 @@ Daily leetcode  submission track record
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0670-maximum-swap](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0670-maximum-swap/) | Medium |
 | [0877-stone-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
@@ -189,6 +190,7 @@ Daily leetcode  submission track record
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
