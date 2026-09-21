@@ -8,6 +8,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0670-maximum-swap](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0670-maximum-swap/) | Medium |
 | [0877-stone-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -37,6 +38,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0162-find-peak-element](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0877-stone-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -160,6 +162,7 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
