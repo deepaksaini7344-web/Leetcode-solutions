@@ -14,6 +14,7 @@ Daily leetcode  submission track record
 | [1551-minimum-operations-to-make-array-equal](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
@@ -47,6 +48,7 @@ Daily leetcode  submission track record
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1929-concatenation-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -162,6 +164,7 @@ Daily leetcode  submission track record
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -195,6 +198,7 @@ Daily leetcode  submission track record
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
