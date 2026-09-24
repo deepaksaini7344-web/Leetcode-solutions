@@ -22,6 +22,7 @@ Daily leetcode  submission track record
 | [2396-strictly-palindromic-number](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -62,6 +63,7 @@ Daily leetcode  submission track record
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
