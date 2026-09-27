@@ -37,6 +37,7 @@ Daily leetcode  submission track record
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0162-find-peak-element](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -74,6 +75,7 @@ Daily leetcode  submission track record
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
