@@ -68,6 +68,7 @@ Daily leetcode  submission track record
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -159,6 +160,7 @@ Daily leetcode  submission track record
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@ Daily leetcode  submission track record
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
