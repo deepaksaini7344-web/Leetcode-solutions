@@ -64,6 +64,7 @@ Daily leetcode  submission track record
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -143,6 +144,7 @@ Daily leetcode  submission track record
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
