@@ -42,6 +42,7 @@ Daily leetcode  submission track record
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0877-stone-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -172,6 +173,7 @@ Daily leetcode  submission track record
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -200,6 +202,7 @@ Daily leetcode  submission track record
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -244,6 +247,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,4 +267,8 @@ Daily leetcode  submission track record
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
