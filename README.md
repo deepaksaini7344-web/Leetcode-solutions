@@ -68,6 +68,7 @@ Daily leetcode  submission track record
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
+| [2974-minimum-number-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -94,6 +95,7 @@ Daily leetcode  submission track record
 | [2221-find-triangular-sum-of-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2293-min-max-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2974-minimum-number-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@ Daily leetcode  submission track record
 | [2545-sort-the-students-by-their-kth-score](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
+| [2974-minimum-number-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Stack
@@ -204,6 +207,7 @@ Daily leetcode  submission track record
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2974-minimum-number-game](https://github.com/deepaksaini7344-web/Leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
